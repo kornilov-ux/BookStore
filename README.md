@@ -7,6 +7,32 @@
 
 This is a simple BookStore application that utilizes the OpenLibrary API to fetch and display information about books.
 
+---
+<p align="left"> 
+<a href="https://swift.org">
+<img src="https://img.shields.io/badge/Swift 5.9-orange" alt="Swift Version 5.9" /></a>
+<a href="https://developer.apple.com/ios/">
+<img src="https://img.shields.io/badge/iOS 17.0-success" alt="iOS Version 17.0"/></a>
+<img src="https://img.shields.io/badge/MVC-ff69b4" alt="MVC" /></a>
+<img src="https://img.shields.io/badge/No storyboard-purple" alt="MVC" /></a>
+</p>
+
+## The development involved:
+<p align="left"> 
+<a href="https://github.com/Vanopr">
+<img src="https://img.shields.io/badge/Vanopr-purple"/></a>
+<a href="https://github.com/kornilov-ux">
+<img src="https://img.shields.io/badge/kornilov.ux-blue"/></a>
+<a href="https://github.com/O4ErtO">
+<img src="https://img.shields.io/badge/O4ErtO-yellow"/></a>
+<a href="https://github.com/Piohi">
+<img src="https://img.shields.io/badge/Piohi-gray"/></a>
+<a href="https://github.com/UdachiTomo">
+<img src="https://img.shields.io/badge/UdachiTomo-green"/></a>
+<a href="https://github.com/KrasnovYuri">
+<img src="https://img.shields.io/badge/KrasnovYuri-red"/></a>
+</p>
+
 ## Features
 Search: Search for books using titles, authors, or ISBN numbers.
 Book Details: View detailed information about a specific book.

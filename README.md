@@ -17,7 +17,7 @@ This is a simple BookStore application that utilizes the OpenLibrary API to fetc
 <img src="https://img.shields.io/badge/No storyboard-purple" alt="MVC" /></a>
 </p>
 
-## The development involved:
+## Participated in the development:
 <p align="left"> 
 <a href="https://github.com/Vanopr">
 <img src="https://img.shields.io/badge/Vanopr-purple"/></a>
